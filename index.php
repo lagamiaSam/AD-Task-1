@@ -11,7 +11,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light px-4">
   <div class="container-fluid">
     <a class="navbar-brand fw-bold d-flex align-items-center" href="#">
-      <img src="high-school.png" alt="School Logo" height="60" class="d-inline-block align-text-top">
+      <img src="../assets/img/high-school.jpg" alt="School Logo" height="60" class="d-inline-block align-text-top">
       <span class="ms-3 fs-4">Mallorca Highschool</span>
     </a>
 
@@ -28,13 +28,13 @@
       <div class="offcanvas-body">
         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
           <li class="nav-item">
-            <a class="nav-link" href="index.php">HOME</a>
+            <a class="nav-link" href="../index.php">HOME</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">ABOUT US</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="grades.php">GRADES</a>
+            <a class="nav-link" href="../page/index.php">GRADES</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">INFO</a>
@@ -48,7 +48,7 @@
 <div class="container col-xxl-8 px-4 py-5">
     <div class="row flex-lg-row-reverse align-items-center g-5">
         <div class="col-10 col-sm-8 col-lg-6 mx-auto text-center">
-            <img src="report-card.png" class="d-block mx-lg-auto img-fluid" alt="Report Card Image" loading="lazy">
+            <img src="../assets/img/report-card.png" class="d-block mx-lg-auto img-fluid" alt="Report Card Image" loading="lazy">
         </div>
     <div class="col-lg-6 mx-auto">
             <h2 class="display-6 fw-semibold lh-1 mb-2">ONLINE EDUCATION</h2>
