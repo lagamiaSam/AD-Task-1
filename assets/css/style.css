@@ -4,3 +4,7 @@ body {
     background: linear-gradient(to bottom right, #2e3c90, #d1a328);
     color: #333;
 }
+.navbar {
+    background-color: #ffffff !important;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
