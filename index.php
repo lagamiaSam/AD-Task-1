@@ -50,5 +50,28 @@
         <div class="col-10 col-sm-8 col-lg-6 mx-auto text-center">
             <img src="reportcard.png" class="d-block mx-lg-auto img-fluid" alt="Report Card Image" loading="lazy">
         </div>
+    <div class="col-lg-6 mx-auto">
+            <h2 class="display-6 fw-semibold lh-1 mb-2">ONLINE EDUCATION</h2>
+            <h1 class="display-5 fw-bold lh-1 mb-3">VIEWING GRADES</h1>
+            <p class="lead">
+                <?php
+                    $lines = [
+                        "Welcome to Mallorca Highschool’s Online Education Portal! With just a few clicks, students can now access their academic performance, stay updated with their grades, and keep track of their progress — anytime, anywhere. Start your journey toward smarter learning today!"
+                    ];
+
+                    foreach ($lines as $line) {
+                        echo $line . "<br>";
+                    }
+
+                    $showButton = true;
+                    if ($showButton) {
+                        echo "<br><a href='grades.php' class='btn btn-primary btn-lg mt-3'>VIEW GRADES NOW!</a>";
+                    }
+                ?>
+            </p>
+        </div>
+    </div>
+</div>
+
 </body>
 </html>
