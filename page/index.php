@@ -48,11 +48,9 @@
 
 <div class="container col-xxl-8 px-4 py-5">
     <div class="row">
-        <!-- Grades Table -->
         <div class="col-12">
             <h2 class="display-6 fw-semibold lh-1 mb-4">Student Grades</h2>
             
-            <!-- Grade Information (Using a loop to display students and grades) -->
             <table class="table table-striped">
                 <thead>
                     <tr>
@@ -63,7 +61,6 @@
                 </thead>
                 <tbody>
                     <?php
-                        // Declaration of student names and their grades
                         $students = [
                             ["name" => "John Doe", "grade" => 85],
                             ["name" => "Jane Smith", "grade" => 92],
@@ -71,7 +68,6 @@
                             ["name" => "Sara Wilson", "grade" => 74]
                         ];
 
-                        // Loop to display students and their grades
                         foreach ($students as $student) {
                             $remark = "";
                             if ($student['grade'] >= 90) {
@@ -84,7 +80,6 @@
                                 $remark = "Needs Improvement";
                             }
 
-                            // Displaying the student's name, grade, and remarks
                             echo "<tr>
                                     <td>{$student['name']}</td>
                                     <td>{$student['grade']}</td>
