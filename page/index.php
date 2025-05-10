@@ -12,7 +12,7 @@
   <div class="container-fluid">
 
   <a class="navbar-brand fw-bold d-flex align-items-center" href="#">
-      <img src="school-logo.png" alt="School Logo" height="60" class="d-inline-block align-text-top">
+      <img src="../page/assets/img/high-school.jpg" alt="School Logo" height="60" class="d-inline-block align-text-top">
       <span class="ms-3 fs-4">Mallorca Highschool</span>
     </a>
 
@@ -92,5 +92,6 @@
         </div>
     </div>
 </div>
+
 </body>
 </html>
