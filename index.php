@@ -65,7 +65,7 @@
 
                     $showButton = true;
                     if ($showButton) {
-                        echo "<br><a href='grades.php' class='btn btn-primary btn-lg mt-3'>VIEW GRADES NOW!</a>";
+                        echo "<br><a href='../page/index.php' class='btn btn-primary btn-lg mt-3'>VIEW GRADES NOW!</a>";
                     }
                 ?>
             </p>
