@@ -12,4 +12,10 @@ body {
     font-size: 1.5rem;
     color: #0d6efd;
 }
+.navbar-nav .nav-link {
+    font-weight: 500;
+    margin-left: 1rem;
+    color: #333;
+}
+
 
