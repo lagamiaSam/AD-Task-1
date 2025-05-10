@@ -1,4 +1,3 @@
-/* General Reset and Font */
 body {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -6,7 +5,6 @@ body {
     color: #333;
 }
 
-/* Navigation Bar */
 .navbar {
     background-color: #ffffff !important;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
@@ -27,7 +25,6 @@ body {
     color: #0d6efd;
 }
 
-/* Hero Section */
 .container {
     background: linear-gradient(
         rgba(255, 255, 255, 0.95), 
@@ -40,20 +37,17 @@ body {
     margin-top: 2rem;
 }
 
-/* Hero Headings */
 h1, h2 {
     color: #0d6efd;
     text-shadow: 1px 1px 2px rgba(0,0,0,0.05);
 }
 
-/* Hero Paragraph */
 .lead {
     font-size: 1.1rem;
     line-height: 1.7;
     color: #444;
 }
 
-/* Button Styling */
 .btn-primary {
     background-color: #0d6efd;
     border: none;
@@ -69,13 +63,11 @@ h1, h2 {
     box-shadow: 0 4px 12px rgba(13, 110, 253, 0.3);
 }
 
-/* Responsive Image */
 .img-fluid {
     max-width: 100%;
     height: auto;
 }
 
-/* Media Queries */
 @media (max-width: 768px) {
     .navbar-brand {
         font-size: 1.2rem;
