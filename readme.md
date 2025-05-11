@@ -11,7 +11,7 @@
 
   <h3 align="center">Online Grades Viewing</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
   This is a simple 2-page website designed for a school project that demonstrates basic programming concepts such as declarations, conditional statements, and loops using HTML, CSS (Bootstrap), and PHP. The landing page introduces an online education platform for Mallorca Highschool, and the grades page displays student performance with automated remarks based on grade values. No functions, classes, or user inputs are used, as per project rules.
 </div>
@@ -145,7 +145,7 @@ AD-ProjectName
 
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Freepik | To help designers, developers, students, and content creators by offering ready-to-use visual assets that they can use in projects                                                                  | https://www.freepik.com/ |
+| ChatGPT | The purpose is to guide small details in programming and etc | https://chatgpt.com/ |
+| w3schools | The purpose is to demonstrate the fundamental concepts of programming declarations, conditional statements, and loops | https://www.w3schools.com/ |
+| Google | The purpose is to search some related stuff about programming, pictures for assets and etc. | https://www.google.com/ |
