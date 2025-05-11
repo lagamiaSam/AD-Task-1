@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/lagamiaSam/">
 
     <img src="./assets/img/high-school.jpg" alt="High School" width="130" height="100">
   </a>
