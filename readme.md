@@ -5,8 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/lagamiaSam/">
-
-    <img src="./assets/img/high-school.jpg" alt="High School" width="130" height="100">
+    <img src="./assets/img/high-school.jpg" alt="high school" width="130" height="100">
   </a>
 
   <h3 align="center">Online Grades Viewing</h3>
