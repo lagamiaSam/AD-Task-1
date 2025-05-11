@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This is a simple 2-page website designed for a school project that demonstrates basic programming concepts such as declarations, conditional statements, and loops using HTML, CSS (Bootstrap), and PHP. The landing page introduces an online education platform for Mallorca Highschool, and the grades page displays student performance with automated remarks based on grade values. No functions, classes, or user inputs are used, as per project rules.
 </div>
 
 <br />
