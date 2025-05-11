@@ -62,10 +62,10 @@
                 <tbody>
                     <?php
                         $students = [
-                            ["name" => "John Doe", "grade" => 85],
-                            ["name" => "Jane Smith", "grade" => 92],
-                            ["name" => "Michael Brown", "grade" => 58],
-                            ["name" => "Sara Wilson", "grade" => 74]
+                            ["name" => "Samuel Lagamia", "grade" => 85],
+                            ["name" => "Kent Valencia", "grade" => 92],
+                            ["name" => "Jude Botor", "grade" => 58],
+                            ["name" => "Owen Lianco", "grade" => 74]
                         ];
 
                         foreach ($students as $student) {
@@ -94,6 +94,7 @@
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
 
 </body>
 </html>
